@@ -1,0 +1,15 @@
+/Users/streambook/Documents/VSCode/Eamples/Ex001/bin/Debug/net6.0/Ex001
+/Users/streambook/Documents/VSCode/Eamples/Ex001/bin/Debug/net6.0/Ex001.deps.json
+/Users/streambook/Documents/VSCode/Eamples/Ex001/bin/Debug/net6.0/Ex001.runtimeconfig.json
+/Users/streambook/Documents/VSCode/Eamples/Ex001/bin/Debug/net6.0/Ex001.dll
+/Users/streambook/Documents/VSCode/Eamples/Ex001/bin/Debug/net6.0/Ex001.pdb
+/Users/streambook/Documents/VSCode/Eamples/Ex001/obj/Debug/net6.0/Ex001.csproj.AssemblyReference.cache
+/Users/streambook/Documents/VSCode/Eamples/Ex001/obj/Debug/net6.0/Ex001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/streambook/Documents/VSCode/Eamples/Ex001/obj/Debug/net6.0/Ex001.AssemblyInfoInputs.cache
+/Users/streambook/Documents/VSCode/Eamples/Ex001/obj/Debug/net6.0/Ex001.AssemblyInfo.cs
+/Users/streambook/Documents/VSCode/Eamples/Ex001/obj/Debug/net6.0/Ex001.csproj.CoreCompileInputs.cache
+/Users/streambook/Documents/VSCode/Eamples/Ex001/obj/Debug/net6.0/Ex001.dll
+/Users/streambook/Documents/VSCode/Eamples/Ex001/obj/Debug/net6.0/refint/Ex001.dll
+/Users/streambook/Documents/VSCode/Eamples/Ex001/obj/Debug/net6.0/Ex001.pdb
+/Users/streambook/Documents/VSCode/Eamples/Ex001/obj/Debug/net6.0/Ex001.genruntimeconfig.cache
+/Users/streambook/Documents/VSCode/Eamples/Ex001/obj/Debug/net6.0/ref/Ex001.dll
